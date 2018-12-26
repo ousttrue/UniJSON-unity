@@ -1,0 +1,3 @@
+[submodule "Assets/UniJSON"]
+	path = Assets/UniJSON
+	url = https://github.com/ousttrue/UniJSON.git

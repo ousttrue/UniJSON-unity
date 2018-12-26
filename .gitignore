@@ -1,0 +1,8 @@
+.idea/
+*.DotSettings.user
+Assets/Plugins/Editor/JetBrains*
+
+Library/
+Temp/
+obj/
+
